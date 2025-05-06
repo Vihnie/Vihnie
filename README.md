@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Vihnie
-- 👀 I’m interested in coding and programming 
+- 👀 I’m a full stack web developer and Software engineer 
 - 🌱 I’m currently learning in JKUAT 
-- 💞️ I’m looking to collaborate on coding extensivi
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate in Tech-related stuff 
+- 📫 Reach out.. omugavinich@gmail.com
+- 😄 Pronouns: ...The Indomitable hacker 
+- ⚡ Fun fact: ... Master Vin 
 
 <!---
 Vihnie/Vihnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
